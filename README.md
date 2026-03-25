@@ -19,9 +19,9 @@ View the [Tutorial Video](https://youtu.be/-8GHEpBGfyM) for a simple demo.
 
 1. [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-us&gl=JP&ocid=pdpshare)
 2. Terminal-based AI agent app:
-   - [Claude Code](https://code.claude.com/docs/en/overview)
+   - [OpenCode](https://opencode.ai/) [recommended]
    - [Codex](https://openai.com/codex/)
-   - [OpenCode](https://opencode.ai/)
+   - [Claude Code](https://code.claude.com/docs/en/overview)
    - etc.
 3. [HotLoader](https://www.food4rhino.com/en/app/hotloader?lang=en) on Grasshopper
 4. [Visual Studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Stable&version=VS18&source=VSLandingPage&cid=2500&passive=false)
