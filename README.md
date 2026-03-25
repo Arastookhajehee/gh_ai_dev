@@ -15,7 +15,9 @@ Instead of copy pasting code from the browser, let's use the terminal and auto h
 2. Project setup
 3. AI vibe coding
 
-View the [Tutorial Video](https://youtu.be/-8GHEpBGfyM) for a simple demo.
+- View the [Tutorial Video](https://youtu.be/-8GHEpBGfyM) for a simple demo.
+- How to use [AI in the terminal](https://youtu.be/MsQACpcuTkU?si=wHc3tUPYN4Ifaw7y)
+- Introduction to [OpenCode](https://youtu.be/UhRGHr7pgnU?si=IVel0jJccTz9QxiH) 
 
 ## Required Tools
 
