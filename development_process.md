@@ -12,7 +12,7 @@
 2. Project Setup
 3. AI Vibe coding
 
-View the [Tutorial Video]() for a simple demo
+View the [Tutorial Video](https://youtu.be/-8GHEpBGfyM) for a simple demo
 
 ## Required tools
 
