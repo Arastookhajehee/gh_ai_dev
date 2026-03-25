@@ -1,6 +1,8 @@
-# Development Steps
+# Developing in Grasshopper with AI
 
 ## Purpose
+
+Instead of copy pasting code from the browser, let's use the terminal and auto hotload to quickly update our gh custom code components and version control our code.
 
 1. Optimize time and reduce time loss for setup.
 2. Keep your AI context and instructions consistent.
