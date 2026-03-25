@@ -47,7 +47,7 @@ Instead of copy pasting code from the browser, let's use the terminal and auto h
 1. Make a HotLoader component in GH.
    - This automatically launches Visual Studio. Leave that window open.
 2. Open the HotLoader project directory in Visual Studio.
-   - In Solution Explorer, right-click the `.cs` file and open the file location in File Explorer.
+   - In the Solution Explorer, right-click the `.cs` file and open the file location in File Explorer.
 3. Close Visual Studio.
 4. Save the Grasshopper file in your desired folder.
 5. Close Rhino.
@@ -60,7 +60,7 @@ Instead of copy pasting code from the browser, let's use the terminal and auto h
 
 ### AI Vibe Coding
 
-- If using VS Code, open the built-in terminal with `Ctrl + \`` and skip to `step 3`.
+- If using VS Code, open the built-in terminal and skip to `step 3`.
 
 1. Navigate to your project folder in Windows Explorer.
 2. Open the folder in Windows Terminal (right-click -> Open in Terminal).
