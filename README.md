@@ -4,10 +4,11 @@
 
 Instead of copy pasting code from the browser, let's use the terminal and auto hotload to quickly update our gh custom code components and version control our code.
 
-1. Optimize time and reduce time loss for setup.
-2. Keep your AI context and instructions consistent.
-3. Use LSP-enabled AI code generation to reduce hallucinations.
+1. Reduce time loss and repetitive actions during development
+2. Keep your AI context and instructions consistent in written files
+3. Use LSP-enabled AI code generation to reduce hallucinations and nonsensical code syntax
 4. Ability to change AI models and keep one's instruction sets and context management
+5. Ownership of your result code and AI conversation history locally
 
 ### Instructions
 
